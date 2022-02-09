@@ -15,21 +15,18 @@ I love sharing my knowledge with others
 
 
 <p align="center">
-  Hi, I'm Oskars, Software developer from Latvia
+ Hi, I'm <b>Oskars</b>, Software developer from Latvia
 </p>
-<p align="center">
   ✏️ I'm a Software developer who loves to learn about new things. Currently learning <b>C#/.NET</b> @ [Codelex](https://www.codelex.io/).
- 
+  <br>
   ❤️ I love sharing my knowledge with others.
   <br>
   🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
+<br>
   💻 I love writing code and learn anythings about it
-  <br>
+<br>
   🚀 Check out my recent project [Asteroid 2D GAME](https://github.com/sharns/asteroids-game-2d)
-
+  <br>
   📫 How to reach me: ➡️ [LinkedIn](https://www.linkedin.com/in/oskars-sarns/)
-
+  <br>
   ⚡ Fun fact: I'm actually funny if you get to know me better.
- <br>
-</p>
