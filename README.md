@@ -1,7 +1,5 @@
 <img align="top" alt="GIF" src="https://github.com/sharns/sharns/blob/main/assets/banner.gif" />
 
-<p align="center">
- <b> Hello </b>, I'm <b>Oskars</b>, from Latvia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
   ✏️ Software developer who loves to learn about new things. Currently learning <b>C#/.NET</b> @ [Codelex](https://www.codelex.io/)
 
@@ -12,7 +10,7 @@
   📫 How to reach me: ➡️ [LinkedIn](https://www.linkedin.com/in/oskars-sarns/)
 
   ⚡ Fun fact: I'm actually funny if you get to know me better.
-</p>
+
 
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
