@@ -23,7 +23,5 @@
 
 </details>
 
-When I'm not coding, you can find me <b> gaming/relaxing </b> with my friends, and <b> exploring/reading </b> my favorite type of literature with my cup of  🍵tea beside me.
-
 <img align="right" alt="GIF" src="https://github.com/sharns/sharns/blob/main/assets/fox.gif" />
 
