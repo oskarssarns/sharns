@@ -21,7 +21,7 @@ I love sharing my knowledge with others
 
   <br>
   <br>
-  - ✏️ I'm a Software developer who loves to learn about new things. Currently learning <b>C#/.NET</b> @ [Codelex](https://www.codelex.io/).
+  ✏️ I'm a Software developer who loves to learn about new things. Currently learning <b>C#/.NET</b> @ [Codelex](https://www.codelex.io/).
   <br>
   ❤️ I love sharing my knowledge with others.
   <br>
@@ -29,9 +29,9 @@ I love sharing my knowledge with others
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  - 🚀 Check out my recent project [Asteroid 2D GAME](https://github.com/sharns/asteroids-game-2d) [a](https://www.youtube.com/)
+  🚀 Check out my recent project [Asteroid 2D GAME](https://github.com/sharns/asteroids-game-2d)
   <br>
- - 📫 How to reach me: ➡️ [LinkedIn](https://www.linkedin.com/in/oskars-sarns/)
+  📫 How to reach me: ➡️ [LinkedIn](https://www.linkedin.com/in/oskars-sarns/)
   <br>
  - ⚡ Fun fact: I'm actually funny if you get to know me better.
 </p>
