@@ -19,7 +19,7 @@ I love sharing my knowledge with others
 </p>
 <p align="center">
   ✏️ I'm a Software developer who loves to learn about new things. Currently learning <b>C#/.NET</b> @ [Codelex](https://www.codelex.io/).
- <br>
+ 
   ❤️ I love sharing my knowledge with others.
   <br>
   🎓 I graduated from Erzurum İbrahim Hakkı Science High School
@@ -27,9 +27,9 @@ I love sharing my knowledge with others
   💻 I love writing code and learn anythings about it
   <br>
   🚀 Check out my recent project [Asteroid 2D GAME](https://github.com/sharns/asteroids-game-2d)
-  <br>
+
   📫 How to reach me: ➡️ [LinkedIn](https://www.linkedin.com/in/oskars-sarns/)
-  <br>
+
   ⚡ Fun fact: I'm actually funny if you get to know me better.
  <br>
 </p>
