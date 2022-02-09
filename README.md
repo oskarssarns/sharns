@@ -15,7 +15,9 @@ I love sharing my knowledge with others
 
 
 <p align="center">
-  Hi, I'm Oskars, Software developer from Latvia 	&#x1f1f1;&#x1f1fb;
+  Hi, I'm Oskars, Software developer from Latvia &#x1F1E6;&#x1F1F1;
+&#127462;&#127473;
+
   <br>
   <br>
   🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
