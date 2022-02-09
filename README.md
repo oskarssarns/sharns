@@ -1,7 +1,7 @@
 <img align="top" alt="GIF" src="https://github.com/sharns/sharns/blob/main/assets/banner.gif" />
 
 <p align="center">
- <b> Hello ! </b>, I'm <b>Oskars</b>, Software developer from Latvia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ <b> Hello </b>, I'm <b>Oskars</b>, Software developer from Latvia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
   ✏️ I'm a Software developer who loves to learn about new things. Currently learning <b>C#/.NET</b> @ [Codelex](https://www.codelex.io/)
 
