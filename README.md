@@ -1,8 +1,10 @@
 <img align="top" alt="GIF" src="https://github.com/sharns/sharns/blob/main/assets/banner.gif" />
 
-<br>
-<br>
-  ✏️ Software developer who loves to learn about new things. Currently learning <b>C#/.NET</b> @ [Codelex](https://www.codelex.io/)
+
+<p align="center">
+ <b> Welcome ! </b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  
+  ✏️ I'm Software developer from Latvia who loves to learn about new things. Currently learning <b>C#/.NET</b> @ [Codelex](https://www.codelex.io/)
 
   ❤️ I love writing code and sharing my knowledge with others
 
@@ -11,7 +13,7 @@
   📫 How to reach me: ➡️ [LinkedIn](https://www.linkedin.com/in/oskars-sarns/)
 
   ⚡ Fun fact: I'm actually funny if you get to know me better.
-
+</p>
 
 <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
