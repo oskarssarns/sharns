@@ -29,7 +29,7 @@ I love sharing my knowledge with others
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  - 🚀 Check out my recent project [Asteroid 2D GAME](https://github.com/sharns/asteroids-game-2d)
+  - 🚀 Check out my recent project [Asteroid 2D GAME](https://github.com/sharns/asteroids-game-2d) [a](https://www.youtube.com/)
   <br>
  - 📫 How to reach me: ➡️ [LinkedIn](https://www.linkedin.com/in/oskars-sarns/)
   <br>
