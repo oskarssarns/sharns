@@ -23,5 +23,7 @@
 
 </details>
 
+ Lately I have been a huge fan of 🎲[Unity](https://unity.com/) and everything about it.
+
 <img align="right" alt="GIF" src="https://github.com/sharns/sharns/blob/main/assets/fox.gif" />
 
