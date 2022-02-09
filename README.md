@@ -18,6 +18,7 @@ I love sharing my knowledge with others
   Hi, I'm Oskars, Software developer from Latvia
 
 
+  <br>
   ✏️ I'm a Software developer who loves to learn about new things. Currently learning <b>C#/.NET</b> @ [Codelex](https://www.codelex.io/).
   <br>
   ❤️ I love sharing my knowledge with others.
