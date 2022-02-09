@@ -15,7 +15,7 @@ I love sharing my knowledge with others
 
 
 <p align="center">
-  Hi, I'm Oskars, Software developer from Latvia 🇱🇻
+  Hi, I'm Oskars, Software developer from Latvia
   <br>
   <br>
   🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
