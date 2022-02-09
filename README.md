@@ -15,23 +15,23 @@ I love sharing my knowledge with others
 
 
 <p align="center">
-  Hi, I'm Oskars, Software developer from Latvia :albania:
+  Hi, I'm Oskars, Software developer from Latvia
 
 
 
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  - ✏️ I'm a Software developer who loves to learn about new things. Currently learning <b>C#/.NET</b> @ [Codelex](https://www.codelex.io/).
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  ❤️ I love sharing my knowledge with others.
   <br>
   🎓 I graduated from Erzurum İbrahim Hakkı Science High School
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  - 🚀 Check out my recent project [Asteroid 2D GAME](https://github.com/sharns/asteroids-game-2d)
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+ - 📫 How to reach me: ➡️ [LinkedIn](https://www.linkedin.com/in/oskars-sarns/)
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+ - ⚡ Fun fact: I'm actually funny if you get to know me better.
 </p>
