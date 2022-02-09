@@ -1,6 +1,7 @@
 <img align="top" alt="GIF" src="https://github.com/sharns/sharns/blob/main/assets/banner.gif" />
 
-
+<br>
+<br>
   ✏️ Software developer who loves to learn about new things. Currently learning <b>C#/.NET</b> @ [Codelex](https://www.codelex.io/)
 
   ❤️ I love writing code and sharing my knowledge with others
