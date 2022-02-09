@@ -4,7 +4,7 @@
 <p align="center">
  <b> Welcome ! </b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
-  ✏️ I'm Software developer from Latvia who loves to learn about new things. Currently learning <b>C#/.NET</b> @ [Codelex](https://www.codelex.io/)
+  ✏️ I'm Software developer who loves to learn about new things. Currently learning <b>C#/.NET</b> @ [Codelex](https://www.codelex.io/)
 
   ❤️ I love writing code and sharing my knowledge with others
 
