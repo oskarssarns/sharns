@@ -1,4 +1,4 @@
-<img align="top" alt="GIF" src=" bilde te " />
+<img align="top" alt="GIF" src="https://github.com/sharns/sharns/blob/main/assets/banner.gif" />
 
 <!--
 **sharns/sharns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
