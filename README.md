@@ -23,6 +23,5 @@
 
 </details>
 
-<p>When I'm not coding, you can find me <b> gaming/relaxing </b> with my friends, and <b> exploring/reading </b> my favorite type of literature with my cup of tea beside me.
-</p></center>
+When I'm not coding, you can find me <b> gaming/relaxing </b> with my friends, and <b> exploring/reading </b> my favorite type of literature with my cup of tea beside me.
 
