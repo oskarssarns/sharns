@@ -9,6 +9,8 @@
   ❤️ I love writing code and sharing my knowledge with others
 
   🚀 Check out my recent project [Asteroid 2D GAME](https://github.com/sharns/asteroids-game-2d)
+ 
+  🚧  Currently working on [Flight Planner](https://github.com/sharns/FlightPlanner)
 
   📫 How to reach me: ➡️ [LinkedIn](https://www.linkedin.com/in/oskars-sarns/)
 
