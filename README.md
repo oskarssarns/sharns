@@ -2,10 +2,8 @@
 
 <p align="center">
  <b> Welcome ! </b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- 
-  ❤️ I love writing code and sharing my knowledge with others
 
-  🚀 Check out my recent project [Asteroid 2D GAME](https://github.com/sharns/asteroids-game-2d)
+  🚀 Some games by me and where i participated in  [Asteroid 2D GAME](https://github.com/sharns/asteroids-game-2d), [Robot Shooter](https://github.com/sharns/robotgame)
 
   📫 How to reach me: ➡️ [LinkedIn](https://www.linkedin.com/in/oskars-sarns/)
 </p>
